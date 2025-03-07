@@ -75,7 +75,7 @@ The player has to control a spaceship, and your mission is to collect space debr
     </tr>
 </table>
 
-## Example
+## Examples
 - ### Home
 <img src="https://github.com/user-attachments/assets/2f5fd808-2ad3-4901-ab66-02eda7a0434b" width="500px;" height="350px">
 
@@ -96,13 +96,12 @@ The player has to control a spaceship, and your mission is to collect space debr
 
 <img src="https://github.com/user-attachments/assets/43913528-c189-4a98-8959-636dca2a44ee" width="400px;" height="280px">
 
-- ### Result
+- ### Results
 <img src="https://github.com/user-attachments/assets/af97c084-cf60-4d62-af06-94b79a09d8ed" width="400px;" height="280px">
 
 <img src="https://github.com/user-attachments/assets/4ef0a4ea-1239-48a8-a5aa-b781cb5f0223" width="400px;" height="280px">
 
-## Contributors
-Group: DengNoey
-- 6733185821 Penpitcha Piyawaranont
-- 6733255021 Sirikarn Fugsrimuang
-- 6733293921 Aitsayaphan Limmuangnil
+## Contributors `Group: DengNoey`
+- Aitsayaphan L. [gincole](https://github.com/gincole) `Main Dev`
+- Penpitcha P. [incluDna](https://github.com/incluDna)
+- Sirikarn F. [nanamunt](https://github.com/nanamunt)
