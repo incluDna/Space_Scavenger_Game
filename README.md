@@ -24,56 +24,56 @@ The player has to control a spaceship, and your mission is to collect space debr
  <tr>
   <td colspan="2"><img src="https://github.com/user-attachments/assets/39169974-ef4a-48b5-b55d-52ffd76319ba" width="28px">
 </td>
-  <td colspan="8">done</td>
-  <td colspan="11">done</td>
+  <td colspan="8"></td>
+  <td colspan="11"></td>
     </tr>
  <tr>
   <td colspan="2"><img src="https://github.com/user-attachments/assets/a7018940-d3b4-46cc-8360-5f8f100ffd01" width="28px">
 </td>
-   <td colspan="8">done</td>
-      <td colspan="11">done</td>
+   <td colspan="8"></td>
+      <td colspan="11"></td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/32a3472b-0444-4e0d-b7c0-d53d333fb636" width="28px">
 </td>
-   <td colspan="8">done</td>
-      <td colspan="11">done</td>
+   <td colspan="8"></td>
+      <td colspan="11"></td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/979d819b-0f1e-4c21-906c-e771043f184e" width="28px">
 </td>
-  <td colspan="8">done</td>
-      <td colspan="11">ไม่ต้องมีแล้ว ให้จองผ่านtentเอา</td>
+  <td colspan="8"></td>
+      <td colspan="11"></td>
     </tr>
   <tr>
     <td colspan="2"><img src="https://github.com/user-attachments/assets/966060d8-2979-4adc-9129-a5ec10029030" width="28px">
 </td>
- <td colspan="8">done</td>
-      <td colspan="11">done</td>
+ <td colspan="8"></td>
+      <td colspan="11"></td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/ab562875-4f84-4edf-86b3-1ca1af8b405f" width="28px">
 </td>
-  <td colspan="8">done</td>
-      <td colspan="11">done</td>
+  <td colspan="8"></td>
+      <td colspan="11"></td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/353ee1c3-4295-41f8-8c52-75a0de7411b5" width="28px">
 </td>
-  <td colspan="8">done</td>
-      <td colspan="11">done</td>
+  <td colspan="8"></td>
+      <td colspan="11"></td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/21ec0ade-1568-483d-af1a-2eac0888e3ae" width="28px">
 </td>
- <td colspan="8">done</td>
-      <td colspan="11">done</td>
+ <td colspan="8"></td>
+      <td colspan="11"></td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/c25ef155-74b0-4172-80b7-996b6baff03e" width="28px">
 </td>
-  <td colspan="8">done</td>
-      <td colspan="11">done</td>
+  <td colspan="8"></td>
+      <td colspan="11"></td>
     </tr>
 </table>
 
