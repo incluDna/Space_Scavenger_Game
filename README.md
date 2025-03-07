@@ -87,9 +87,9 @@ The player has to control a spaceship, and your mission is to collect space debr
 <img src="https://github.com/user-attachments/assets/ab042a98-3206-4360-94d6-e15c01cbe59c" width="400px;" height="280px">
 
 - ### How to play
-<img src="https://github.com/user-attachments/assets/9f64f932-d601-4101-8274-abc20e617040" width="500px;" height="350px">
+<img src="https://github.com/user-attachments/assets/9f64f932-d601-4101-8274-abc20e617040" width="400px;" height="280px">
 
-<img src="https://github.com/user-attachments/assets/0d86644a-c588-4a75-b486-9210de7cf6ed" width="500px;" height="350px">
+<img src="https://github.com/user-attachments/assets/0d86644a-c588-4a75-b486-9210de7cf6ed" width="400px;" height="280px">
 
 - ### Level 1-3
 <img src="https://github.com/user-attachments/assets/079b0d68-5562-47b0-9dd8-39b3b5306574" width="320px;" height="250px">
