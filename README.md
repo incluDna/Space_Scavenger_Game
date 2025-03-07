@@ -99,8 +99,8 @@ The player has to control a spaceship, and your mission is to collect space debr
 <img src="https://github.com/user-attachments/assets/43913528-c189-4a98-8959-636dca2a44ee" width="320px;" height="250px">
 
 - ### Result
-<img src="https://github.com/user-attachments/assets/af97c084-cf60-4d62-af06-94b79a09d8ed" width="500px;" height="350px">
+<img src="https://github.com/user-attachments/assets/af97c084-cf60-4d62-af06-94b79a09d8ed" width="400px;" height="280px">
 
-<img src="https://github.com/user-attachments/assets/4ef0a4ea-1239-48a8-a5aa-b781cb5f0223" width="500px;" height="350px">
+<img src="https://github.com/user-attachments/assets/4ef0a4ea-1239-48a8-a5aa-b781cb5f0223" width="400px;" height="280px">
 
 
