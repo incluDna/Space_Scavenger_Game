@@ -18,8 +18,8 @@ The player has to control a spaceship, and your mission is to collect space debr
   <tr>
   <td colspan="2"><img src="https://github.com/user-attachments/assets/f438d2a2-9f59-4086-a6bd-12ddb8b5af80" width="28px">
 </td>
-  <td colspan="8">done</td>
-  <td colspan="11">done</td>
+  <td colspan="8">spacecraft</td>
+  <td colspan="11">player</td>
     </tr>
  <tr>
   <td colspan="2"><img src="https://github.com/user-attachments/assets/39169974-ef4a-48b5-b55d-52ffd76319ba" width="28px">
