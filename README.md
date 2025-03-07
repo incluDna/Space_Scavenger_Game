@@ -92,11 +92,11 @@ The player has to control a spaceship, and your mission is to collect space debr
 <img src="https://github.com/user-attachments/assets/0d86644a-c588-4a75-b486-9210de7cf6ed" width="400px;" height="280px">
 
 - ### Level 1-3
-<img src="https://github.com/user-attachments/assets/079b0d68-5562-47b0-9dd8-39b3b5306574" width="320px;" height="250px">
+<img src="https://github.com/user-attachments/assets/079b0d68-5562-47b0-9dd8-39b3b5306574" width="400px;" height="280px">
 
-<img src="https://github.com/user-attachments/assets/d86219e2-abc1-4d12-ae74-01402088593e" width="320px;" height="250px">
+<img src="https://github.com/user-attachments/assets/d86219e2-abc1-4d12-ae74-01402088593e" width="400px;" height="280px">
 
-<img src="https://github.com/user-attachments/assets/43913528-c189-4a98-8959-636dca2a44ee" width="320px;" height="250px">
+<img src="https://github.com/user-attachments/assets/43913528-c189-4a98-8959-636dca2a44ee" width="400px;" height="280px">
 
 - ### Result
 <img src="https://github.com/user-attachments/assets/af97c084-cf60-4d62-af06-94b79a09d8ed" width="400px;" height="280px">
