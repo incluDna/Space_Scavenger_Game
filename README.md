@@ -1,10 +1,8 @@
 # Space Scaventure <img src="https://github.com/user-attachments/assets/84506eb9-1eda-4822-b45c-4e292880a4fe" width="35px">
 
-
 ## Introduction
 Space Scavenger is a space-themed adventure and survival game where players take on the role of an astronaut piloting a spacecraft on a crucial mission to travel from Earth to . However, with limited fuel that may not be sufficient for the entire journey, players must explore and collect space debris to convert it into energy fuel. Along the way, they will face numerous challenges and obstacles, making the journey more exciting and unpredictable.
 "Let's navigate the spaceship to Saturn for a grand mission!"
-
 
 ## Rules
 The player has to control a spaceship, and your mission is to collect space debris to gain points and progress through different levels while avoiding dangerous obstacles. As you collect more debris, your score increases, and if you reach the required score, you will advance to the next level with increased difficulty. However, if you collide with a space tornado, the game will be over.
@@ -18,62 +16,62 @@ The player has to control a spaceship, and your mission is to collect space debr
   <tr>
   <td colspan="2"><img src="https://github.com/user-attachments/assets/f438d2a2-9f59-4086-a6bd-12ddb8b5af80" width="28px">
 </td>
-  <td colspan="8">spacecraft</td>
-  <td colspan="11">player</td>
+  <td colspan="8">Spacecraft</td>
+  <td colspan="11">Player</td>
     </tr>
  <tr>
   <td colspan="2"><img src="https://github.com/user-attachments/assets/39169974-ef4a-48b5-b55d-52ffd76319ba" width="28px">
 </td>
-  <td colspan="8"></td>
-  <td colspan="11"></td>
+  <td colspan="8">Space debris</td>
+  <td colspan="11">Collect space debris to + 10 scores</td>
     </tr>
  <tr>
   <td colspan="2"><img src="https://github.com/user-attachments/assets/a7018940-d3b4-46cc-8360-5f8f100ffd01" width="28px">
 </td>
-   <td colspan="8"></td>
-      <td colspan="11"></td>
+   <td colspan="8">Meteoroid</td>
+      <td colspan="11">Avoid meteorites, or you’ll lose!</td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/32a3472b-0444-4e0d-b7c0-d53d333fb636" width="28px">
 </td>
-   <td colspan="8"></td>
-      <td colspan="11"></td>
+   <td colspan="8">UFO</td>
+      <td colspan="11">Avoid UFO(s), or you’ll lose!</td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/979d819b-0f1e-4c21-906c-e771043f184e" width="28px">
 </td>
-  <td colspan="8"></td>
-      <td colspan="11"></td>
+  <td colspan="8">Tornado(Enermy)</td>
+      <td colspan="11">Avoid enermies, or you’ll lose!</td>
     </tr>
   <tr>
     <td colspan="2"><img src="https://github.com/user-attachments/assets/966060d8-2979-4adc-9129-a5ec10029030" width="28px">
 </td>
- <td colspan="8"></td>
-      <td colspan="11"></td>
+ <td colspan="8">Score_powerUp</td>
+      <td colspan="11">score x2</td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/ab562875-4f84-4edf-86b3-1ca1af8b405f" width="28px">
 </td>
-  <td colspan="8"></td>
-      <td colspan="11"></td>
+  <td colspan="8">Speed_powerUp</td>
+      <td colspan="11">speed x2</td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/353ee1c3-4295-41f8-8c52-75a0de7411b5" width="28px">
 </td>
-  <td colspan="8"></td>
-      <td colspan="11"></td>
+  <td colspan="8">Shield</td>
+      <td colspan="11">The shield protects the larger object.</td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/21ec0ade-1568-483d-af1a-2eac0888e3ae" width="28px">
 </td>
- <td colspan="8"></td>
-      <td colspan="11"></td>
+ <td colspan="8">Alien</td>
+      <td colspan="11">- 50 scores</td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/c25ef155-74b0-4172-80b7-996b6baff03e" width="28px">
 </td>
-  <td colspan="8"></td>
-      <td colspan="11"></td>
+  <td colspan="8">Star</td>
+      <td colspan="11">Can hit any object in 5 seconds (including the tornado, if hit you won't lose but won't get points)</td>
     </tr>
 </table>
 
@@ -103,4 +101,8 @@ The player has to control a spaceship, and your mission is to collect space debr
 
 <img src="https://github.com/user-attachments/assets/4ef0a4ea-1239-48a8-a5aa-b781cb5f0223" width="400px;" height="280px">
 
-
+## Contributors
+Group: DengNoey
+- 6733185821 Penpitcha Piyawaranont
+- 6733255021 Sirikarn Fugsrimuang
+- 6733293921 Aitsayaphan Limmuangnil
