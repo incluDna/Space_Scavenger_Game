@@ -29,13 +29,13 @@ The player has to control a spaceship, and your mission is to collect space debr
   <td colspan="2"><img src="https://github.com/user-attachments/assets/a7018940-d3b4-46cc-8360-5f8f100ffd01" width="28px">
 </td>
    <td colspan="8">Meteoroid</td>
-      <td colspan="11">Avoid meteorites, or you’ll lose!</td>
+      <td colspan="11">Avoid meteorites first. If your score =100-200, you can collect them</td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/32a3472b-0444-4e0d-b7c0-d53d333fb636" width="28px">
 </td>
    <td colspan="8">UFO</td>
-      <td colspan="11">Avoid UFO(s), or you’ll lose!</td>
+      <td colspan="11">Avoid UFO(s) first. If your score =200-300, you can collect them</td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github.com/user-attachments/assets/979d819b-0f1e-4c21-906c-e771043f184e" width="28px">
@@ -62,13 +62,13 @@ The player has to control a spaceship, and your mission is to collect space debr
       <td colspan="11">The shield protects the larger object.</td>
     </tr>
     <tr>
-      <td colspan="2"><img src="https://github.com/user-attachments/assets/21ec0ade-1568-483d-af1a-2eac0888e3ae" width="28px">
+      <td colspan="2"><img src="https://github.com/user-attachments/assets/c25ef155-74b0-4172-80b7-996b6baff03e" width="28px">
 </td>
  <td colspan="8">Alien</td>
       <td colspan="11">- 50 scores</td>
     </tr>
     <tr>
-      <td colspan="2"><img src="https://github.com/user-attachments/assets/c25ef155-74b0-4172-80b7-996b6baff03e" width="28px">
+      <td colspan="2"><img src="https://github.com/user-attachments/assets/21ec0ade-1568-483d-af1a-2eac0888e3ae" width="28px">
 </td>
   <td colspan="8">Star</td>
       <td colspan="11">Can hit any object in 5 seconds (including the tornado, if hit you won't lose but won't get points)</td>
