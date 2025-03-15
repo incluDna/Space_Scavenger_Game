@@ -112,4 +112,4 @@ java -jar [vm options] [path to .jar file]
 - Penpitcha P. [incluDna](https://github.com/incluDna) 
 - Sirikarn F. [nanamunt](https://github.com/nanamunt)
 
-Actually, it has some bugs (for dev, if u know how to fix it, that would be even better), please let me know. -> [email](mailto:6733185821@student.chula.ac.th) 🥹🙇‍♀️
+Actually, it has some bugs (for dev, if u know how to fix it, that would be even better), please let me know.->[email](mailto:6733185821@student.chula.ac.th) 🥹🙇‍♀️
