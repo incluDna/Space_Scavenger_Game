@@ -75,17 +75,9 @@ The player has to control a spaceship, and your mission is to collect space debr
     </tr>
 </table>
 
-## Examples & To play this game
-- ### Home
-<img src="https://github.com/user-attachments/assets/2f5fd808-2ad3-4901-ab66-02eda7a0434b" width="500px;" height="350px">
+## Preview
 
-- ### Select levels & How to play
-<img src="https://github.com/user-attachments/assets/ab042a98-3206-4360-94d6-e15c01cbe59c" width="400px;" height="280px">
-<img src="https://github.com/user-attachments/assets/9f64f932-d601-4101-8274-abc20e617040" width="400px;" height="280px">
-
-- ### Game Lv.1 (see more in game!)
-<img src="https://github.com/user-attachments/assets/079b0d68-5562-47b0-9dd8-39b3b5306574" width="400px;" height="280px">
-<img src="https://github.com/user-attachments/assets/af97c084-cf60-4d62-af06-94b79a09d8ed" width="400px;" height="280px">
+<img src="https://github.com/incluDna/ProgMeth/blob/9e16ff099f587f730047e99ca9895820014c76f5/spaceScavenger_preview.gif">
 
 ### requirements:
 
@@ -107,9 +99,10 @@ To execute jar file run the following command:
 java -jar [vm options] [path to .jar file]
 ```
 
-#### Contributors `Group: DengNoey`
+### Contributors `Group: DengNoey`
 - Aitsayaphan L. [gincole](https://github.com/gincole) `Main Dev`
 - Penpitcha P. [incluDna](https://github.com/incluDna) 
 - Sirikarn F. [nanamunt](https://github.com/nanamunt)
 
 Actually, it has some bugs (for dev, if u know how to fix it, that would be even better), please let me know.->[email](mailto:6733185821@student.chula.ac.th) 🥹🙇‍♀️
+
