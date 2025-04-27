@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.control.Button?>
+
+<StackPane xmlns="http://javafx.com/javafx"
+           xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="gui.LevelSelectionScreenController">
+
+    <!-- ✅ พื้นหลัง -->
+    <ImageView fx:id="bgImage" fitWidth="1280" fitHeight="720" preserveRatio="false"/>
+
+    <Button fx:id="btnLevel1"
+	        style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;"
+	        prefWidth="150" prefHeight="150"
+	        translateX="-275" translateY="-60">
+	    <graphic>
+	        <ImageView fx:id="iconLevel1" fitWidth="150" fitHeight="150" preserveRatio="true"/> <!-- ✅ เพิ่มขนาดไอคอน -->
+	    </graphic>
+	</Button>
+	
+	<Button fx:id="btnLevel2"
+	        style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;"
+	        prefWidth="150" prefHeight="150" 
+	        translateX="0" translateY="-60">
+	    <graphic>
+	        <ImageView fx:id="iconLevel2" fitWidth="150" fitHeight="150" preserveRatio="true"/>
+	    </graphic>
+	</Button>
+	
+	<Button fx:id="btnLevel3"
+	        style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;"
+	        prefWidth="150" prefHeight="150"
+	        translateX="275" translateY="-60">
+	    <graphic>
+	        <ImageView fx:id="iconLevel3" fitWidth="150" fitHeight="150" preserveRatio="true"/>
+	    </graphic>
+	</Button>
+
+    <!-- ✅ ปุ่ม Back (แทนปุ่ม Home เดิม) -->
+	<Button fx:id="btnBack"
+	        style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;"
+	        prefWidth="90" prefHeight="90"
+	        translateY="220">
+	    <graphic>
+	        <ImageView fx:id="homeIcon" fitWidth="90" fitHeight="90" preserveRatio="true"/>
+	    </graphic>
+	</Button>
+    
+    <!-- ✅ ปุ่ม Cheat Mode (ล่องหน) -->
+	<Button fx:id="btnCheatUnlock"
+	        style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;"
+	        prefWidth="100" prefHeight="100"
+	        translateX="600" translateY="-340"/>
+</StackPane>

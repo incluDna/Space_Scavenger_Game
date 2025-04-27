@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.Button?>
+
+<StackPane xmlns="http://javafx.com/javafx"
+           xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="gui.HowToPlayScreen1Controller">
+
+    <!-- ✅ พื้นหลัง -->
+    <ImageView fx:id="bgImage" fitWidth="1280" fitHeight="720" preserveRatio="false"/>
+
+    <!-- ✅ ปุ่ม Home (ทับไอคอนบ้านในพื้นหลัง) -->
+    <Button fx:id="btnHome"
+            style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;"
+            prefWidth="90" prefHeight="90"
+            translateX="0" translateY="270">
+        <graphic>
+            <ImageView fx:id="homeIcon" fitWidth="90" fitHeight="90" preserveRatio="true"/>
+        </graphic>
+    </Button>
+
+    <!-- ✅ ปุ่ม Next (ทับปุ่ม Next ในพื้นหลัง) -->
+    <Button fx:id="btnNext"
+            style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;"
+            prefWidth="200" prefHeight="80"
+            translateX="190" translateY="275">
+        <graphic>
+            <ImageView fx:id="nextIcon" fitWidth="200" fitHeight="80" preserveRatio="true"/>
+        </graphic>
+    </Button>
+
+</StackPane>

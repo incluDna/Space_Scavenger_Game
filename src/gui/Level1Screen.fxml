@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.canvas.*?>
+
+<StackPane xmlns:fx="http://javafx.com/fxml" fx:controller="gui.Level1ScreenController">
+    <ImageView fitWidth="1280" fitHeight="720" preserveRatio="false">
+        <image>
+            <Image url="file:res/image_bg_level_1.png"/>
+        </image>
+    </ImageView>
+
+    <Canvas fx:id="gameCanvas" width="1280" height="720"/>
+
+    <VBox alignment="CENTER" spacing="20">
+        <Button fx:id="btnPlayAgain" text="Play Again" visible="false"/>
+        <Button fx:id="btnHome" text="Back to Home" visible="false"/>
+    </VBox>
+</StackPane>

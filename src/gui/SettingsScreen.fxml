@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Button?>
+
+<StackPane xmlns="http://javafx.com/javafx"
+           xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="gui.SettingsScreenController">
+
+    <!-- ✅ พื้นหลัง (รวมปุ่ม Back ไว้ในภาพแล้ว) -->
+    <ImageView fx:id="bgImage" fitWidth="1280" fitHeight="720" preserveRatio="false"/>
+
+    <!-- ✅ ปุ่มเปิด/ปิดเสียง (ขยับซ้ายและขยายขนาดให้พอดี) -->
+    <VBox spacing="50" alignment="CENTER"
+          translateX="230" translateY="-3"> 
+        <Button fx:id="btnToggleMusic"
+                style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;"
+                prefWidth="90" prefHeight="90"/>
+        <Button fx:id="btnToggleSound"
+                style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;"
+                prefWidth="90" prefHeight="90"/>
+    </VBox>
+
+    <!-- ✅ ปุ่มโปร่งใสสำหรับกลับไป Home (ทับบน "Back") -->
+    <Button fx:id="btnBack"
+            style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;"
+            prefWidth="320" prefHeight="65"
+            translateY="255"/> <!-- ✅ ปรับตำแหน่งให้ตรงกับปุ่ม Back ที่อยู่ในภาพ -->
+
+</StackPane>

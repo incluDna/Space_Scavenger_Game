@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.control.Button?>
+
+<StackPane xmlns="http://javafx.com/javafx"
+           xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="gui.GameOverScreenController">
+
+    <!-- ✅ พื้นหลัง Game Over -->
+    <ImageView fx:id="bgGameOver" fitWidth="400" fitHeight="300" preserveRatio="false"/>
+
+    <!-- ✅ ปุ่ม Play Again -->
+    <Button fx:id="btnPlayAgain"
+            style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;"
+            prefWidth="220" prefHeight="50"
+            translateY="-10"/>
+
+    <!-- ✅ ปุ่ม Menu -->
+    <Button fx:id="btnMenu"
+            style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;"
+            prefWidth="220" prefHeight="50"
+            translateY="60"/>
+
+</StackPane>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Button?>
+
+<StackPane xmlns="http://javafx.com/javafx"
+           xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="gui.HomeScreenController">
+
+    <!-- ✅ พื้นหลัง -->
+    <ImageView fx:id="bgImage" fitWidth="1280" fitHeight="720" preserveRatio="false"/>
+
+    <!-- ✅ คอนเทนเนอร์สำหรับปุ่ม (เลื่อนลงมาใต้คำว่า SPACE SCAVENGER) -->
+    <VBox fx:id="buttonContainer"
+          alignment="CENTER"
+          spacing="10"
+          translateY="100">  <!-- ✅ ปรับลงมาข้างล่าง -->
+        <Button fx:id="btnPlayGame" style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;" />
+        <Button fx:id="btnSettings" style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;" />
+        <Button fx:id="btnHowToPlay" style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;" />
+        <Button fx:id="btnCredit" style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;" />
+        <Button fx:id="btnExit" style="-fx-background-color: transparent; -fx-border-color: transparent; -fx-cursor: hand;" />
+    </VBox>
+
+</StackPane>
