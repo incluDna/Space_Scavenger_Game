@@ -88,12 +88,12 @@ JDK >= 20.0.2
 Library: JavaFX
 
 ### running commands
-Set your Virtual Machine Options in IntelliJ to the following
+Set your Virtual Machine Options in Eclipse to the following
 
 ```bash
 --module-path [path to javafx sdk's lib folder] --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.media
 ```
-To execute jar file run the following command:
+To execute jar file run the following command: Don't forget to cd [to this project] and (.jar file is DengNoey_ProgMeth.jar)
 
 ```bash
 java -jar [vm options] [path to .jar file]
