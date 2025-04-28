@@ -14,7 +14,7 @@ The player has to control a spaceship, and your mission is to collect space debr
      <th colspan="11">Description</th>
     </tr>
   <tr>
-  <td colspan="2"><img src="https://github.com/user-attachments/assets/f438d2a2-9f59-4086-a6bd-12ddb8b5af80" width="28px">
+  <td colspan="2"><img src="https://github.com/incluDna/Space_Scavenger_Game/blob/9f7f1a9dcbca5842c71e36a31ce5633864c01085/res/image_object_spacecraft.png" width="28px">
 </td>
   <td colspan="8">Spacecraft</td>
   <td colspan="11">Player</td>
